@@ -1,0 +1,16 @@
+.recipes
+{
+    background-color: bisque;
+    display: flex;
+    flex-wrap: wrap;
+}
+.recipe
+{
+    width: 50%;
+    text-align: center;
+}
+.recipe img
+{
+    width: 50%;
+    height: 80%;
+}
